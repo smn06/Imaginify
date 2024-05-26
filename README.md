@@ -2,7 +2,7 @@
 
 ## Imaginify Overview
 
-Imaginify is an innovative project that explores the fascinating realm of Text-to-Image Generation using Generative Adversarial Networks (GANs). This system empowers users to transform textual descriptions into vivid, lifelike images, pushing the boundaries of creativity and imagination.
+Imaginify is a project that explores the fascinating realm of Text-to-Image Generation using Generative Adversarial Networks (GANs). This system empowers users to transform textual descriptions into vivid, lifelike images, pushing the boundaries of creativity and imagination.
 
 Project Organization
 ------------
