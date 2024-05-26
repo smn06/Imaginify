@@ -1,6 +1,11 @@
 # local package
 -e .
-
+gensim
+nltk
+tensorflow
+numpy
+pandas
+scikit-learn
 # external requirements
 click
 Sphinx
